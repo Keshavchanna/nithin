@@ -4,7 +4,7 @@ student
   uses: actions/upload-artifact@v3.1.2
   with:
     # Artifact name
-    name: nithin123
+    name: nithin12
     # A file, directory or wildcard pattern that describes what to upload
     path: 
     # The desired behavior if no files are found using the provided path.
